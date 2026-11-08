@@ -1,6 +1,6 @@
 # Hi, I'm Ronaldo 👋
 
-🎓 <img width="4032" height="269" alt="image" src="https://github.com/user-attachments/assets/fcf69e68-ccb0-4fc1-8acf-23408f787587" />
+ 🎓 Aspiring Data Analyst
 
 
 💻 Learning and building projects in Data Analytics
