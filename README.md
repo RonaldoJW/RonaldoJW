@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ronaldo JW 👋
 
-<!--
-**RonaldoJW/RonaldoJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analytics Student
 
-Here are some ideas to get you started:
+📊 Passionate about Data Analysis, SQL, Python, and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects and improving my analytical skills every day.
+
+## 🚀 About Me
+
+- 📚 Studying Data Analytics
+- 🐍 Learning Python and Pandas
+- 🗄️ Working with SQL databases
+- 🌐 Exploring HTML, CSS, and JavaScript
+- 📈 Interested in Business Intelligence and Data Visualization
+
+## 🛠️ Tech Stack
+
+SQL | Python | Pandas | HTML | CSS | JavaScript
+
+## 📫 Connect With Me
+
+🔗 LinkedIn:
+www.linkedin.com/in/ronaldo-garibaldi-monteiro-jw-2bb2a02a1
+
+⭐ Turning data into insights.
