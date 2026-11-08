@@ -43,7 +43,8 @@
 
 ---
 
-⭐ Always learning, analyzing data, and building new projects.
+⭐ 💻 Building projects and developing analytical solutions with data
+
 
 ## 📊 GitHub Stats
 
