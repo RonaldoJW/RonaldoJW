@@ -1,6 +1,7 @@
 # Hi, I'm Ronaldo 👋
 
-🎓 Data Analytics Student
+🎓 <img width="4032" height="269" alt="image" src="https://github.com/user-attachments/assets/fcf69e68-ccb0-4fc1-8acf-23408f787587" />
+
 
 💻 Learning and building projects in Data Analytics
 
