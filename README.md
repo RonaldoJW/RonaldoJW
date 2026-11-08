@@ -1,26 +1,45 @@
-# Ronaldo JW 👋
+# Hi, I'm Ronaldo 👋
 
 🎓 Data Analytics Student
 
-📊 Passionate about Data Analysis, SQL, Python, and Business Intelligence.
+💻 Learning and building projects in Data Analytics
 
-🚀 Building projects and improving my analytical skills every day.
+📊 SQL • Python • Pandas
+
+🌐 HTML • CSS • JavaScript
+
+📚 Always eager to learn new technologies and improve my skills
+
+🚀 Growing one commit at a time
+
+---
 
 ## 🚀 About Me
 
-- 📚 Studying Data Analytics
-- 🐍 Learning Python and Pandas
-- 🗄️ Working with SQL databases
-- 🌐 Exploring HTML, CSS, and JavaScript
-- 📈 Interested in Business Intelligence and Data Visualization
+- 🌱 Currently studying Data Analytics
+- 📊 Working with SQL, Python, and Pandas
+- 🌐 Exploring Web Development with HTML, CSS, and JavaScript
+- 📚 Constantly improving my technical skills
+- 🎯 Seeking opportunities to grow as a Data Analyst
 
-## 🛠️ Tech Stack
+---
 
-SQL | Python | Pandas | HTML | CSS | JavaScript
+## 🛠️ Technologies
+
+- SQL
+- Python
+- Pandas
+- HTML
+- CSS
+- JavaScript
+
+---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn:
-www.linkedin.com/in/ronaldo-garibaldi-monteiro-jw-2bb2a02a1
+🔗 LinkedIn:  
+[linkedin.com/in/ronaldo-garibaldi-monteiro-jw-2bb2a02a1](https://www.linkedin.com/in/ronaldo-garibaldi-monteiro-jw-2bb2a02a1/)
 
-⭐ Turning data into insights.
+---
+
+⭐ Always learning, analyzing data, and building new projects.
