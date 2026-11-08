@@ -44,3 +44,9 @@
 ---
 
 ⭐ Always learning, analyzing data, and building new projects.
+
+## 📊 GitHub Stats
+
+![Ronaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoJW&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoJW&layout=compact&theme=tokyonight)
