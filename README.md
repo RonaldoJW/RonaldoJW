@@ -43,7 +43,7 @@
 
 ---
 
-⭐ 💻 Building projects and developing analytical solutions with data
+⭐ 💻 🎯 Em busca de oportunidades para transformar dados em insights e apoiar a tomada de decisões
 
 
 ## 📊 GitHub Stats
